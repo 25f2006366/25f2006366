@@ -17,8 +17,8 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **B.Tech - Electronics & Computer Science** student at Narula Institute of Technology, Kolkata
-🎓 **B.S. - Data Science and Applications** student at IIT Madras
+🎓 **B.Tech - Electronics & Computer Science** student at Narula Institute of Technology, Kolkata  
+🎓 **B.S. - Data Science and Applications** student at IIT Madras   
 🌐 Focused on **full-stack web development** and AI-driven systems  
 🧠 Building strong CS fundamentals through consistent **problem solving**  
 ⛓️ Explored **blockchain development** — built a smart contract on Stellar using Rust & Soroban SDK  
