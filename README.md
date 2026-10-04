@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archisman-mitra)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/archisman_06)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_archisman.m)
-![Profile Views](https://komarev.com/ghpvc/?username=archisman-mitra&style=for-the-badge&color=F27121&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=25f2006366&style=for-the-badge&color=F27121&label=PROFILE+VIEWS)
 
 </div>
 
@@ -89,10 +89,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=archisman-mitra&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archisman-mitra&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=25f2006366&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25f2006366&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=archisman-mitra&theme=radical&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=25f2006366&theme=radical&hide_border=true" height="165" />
 </div>
 
 ---
@@ -100,21 +100,21 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=archisman-mitra&theme=radical&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=25f2006366&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=archisman-mitra&theme=radical&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=25f2006366&theme=radical&hide_border=true&area=true" width="100%" />
 
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/archisman-mitra/archisman-mitra/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/25f2006366/25f2006366/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
 ---
